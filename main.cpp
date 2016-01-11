@@ -4,7 +4,7 @@
 using namespace std;
 int main()
 {
- //tests is in TestString.cpp
+ //tests is in TestString.cpp //
 
   UnitTest::TestList& allTests (UnitTest::Test::GetTestList());
   UnitTest::TestList selected;
